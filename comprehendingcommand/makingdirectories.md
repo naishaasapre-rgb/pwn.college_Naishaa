@@ -2,7 +2,7 @@
 making directories
 
 ### Solve
-**Flag:** `pwn.college{helloworld}`
+**Flag:** `pwn.college{YvIFYcImccPTaW4QaVHEaFrxRFN.QXxMDO0wSMzEzNzEzW}`
 
 ```bash
 Connected

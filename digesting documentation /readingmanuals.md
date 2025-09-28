@@ -2,7 +2,7 @@
 reading manuals
 
 ### Solve
-**Flag:** `pwn.college{helloworld}`
+**Flag:** `pwn.college{YjZMs2xl7DJZJ9uz9ykQk_7dGjc.QX0EDO0wSMzEzNzEzW}`
 
 ```bash
 Connected!
